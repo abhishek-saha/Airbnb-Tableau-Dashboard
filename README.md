@@ -6,3 +6,4 @@
 -----------------------------------------------------------------
 ## Major learnings
 ### The goal was to come up with an approach which would help users choose their best locality / neighborhood and then deep dive into the listings, while filtering on the most important attributes available to them. The output was a Tableau dashboard which is attached.
+![Airbnb Dashboard](https://github.com/abhishek-saha/Airbnb-Tableau-Dashboard/blob/master/Dashboard.JPG)
